@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1296
     wikipedia: http://en.wikipedia.org/wiki/Henry_Edward_Krehbiel
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/17474#How-to-Listen-to-Music-7th-ed.Hints-and-Suggestions-to-Untaught-Lovers-of-the-Art
 gutenberg_bookshelf: Music
 gutenberg_issued: '2006-01-07'
 gutenberg_type: Text
