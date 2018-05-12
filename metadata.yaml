@@ -1,0 +1,31 @@
+_repo: How-to-Listen-to-Music-7th-ed.Hints-and-Suggestions-to-Untaught-Lovers-of-the-Art_17474
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Krehbiel, Henry Edward
+    alias: Krehbiel, H. E. (Henry Edward)
+    birthdate: 1854
+    deathdate: 1923
+    gutenberg_agent_id: '1296'
+    url: http://www.gutenberg.org/2009/agents/1296
+    wikipedia: http://en.wikipedia.org/wiki/Henry_Edward_Krehbiel
+description: ''
+gutenberg_bookshelf: Music
+gutenberg_issued: '2006-01-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17474'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Music appreciation'
+- !lcc 'MT'
+title: 'How to Listen to Music, 7th ed.
+
+  Hints and Suggestions to Untaught Lovers of the Art'
+url: http://www.gutenberg.org/ebooks/17474
